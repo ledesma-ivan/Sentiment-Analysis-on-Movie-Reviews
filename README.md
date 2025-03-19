@@ -1,5 +1,4 @@
-# Sprint 06 Project
-> Sentiment Analysis on Movies Reviews
+# Sentiment Analysis on Movies Reviews
 
 ## Install
 
@@ -39,4 +38,3 @@ We've added some basic tests to `Sentiment_Analysis_NLP.ipynb` that you must be 
 - For Lematizer, use `Spacy` pre-trained model `en_core_web_sm`.
 
 You can use others methods if you want to do extra experimentation but do it outside the code used to run the tests. Otherwise, they may fail for some specific cases.
-# Sentiment-Analysis-on-Movie-Reviews
